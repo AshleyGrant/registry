@@ -79,6 +79,7 @@
   "famous-angular": "github:Famous/famous-angular",
   "famous-polyfills": "github:Famous/polyfills",
   "flowtype": "github:simplefocus/FlowType.JS",
+  "fluidbox": "github:terrymun/Fluidbox",
   "font-awesome": "npm:font-awesome",
   "foundation": "github:zurb/bower-foundation",
   "fs": "github:jspm/nodelibs-fs",

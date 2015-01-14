@@ -1,0 +1,16 @@
+{
+  "main": "jquery.fluidbox",
+  "dependencies": {
+    "jquery": "^2.1.3",
+    "css": "0.1.0"
+  },
+  "shim": {
+    "jquery.fluidbox": {
+      "deps": [
+        "jquery",
+        "./css/fluidbox.css!"
+      ],
+      "exports": "$"
+    }
+  }
+}
